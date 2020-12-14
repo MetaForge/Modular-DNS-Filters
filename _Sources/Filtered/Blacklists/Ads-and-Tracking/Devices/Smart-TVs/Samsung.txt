@@ -89,7 +89,6 @@ zpu.samsungelectronics.com
 www.samsungrm.net
 www.samsungelectronics.com
 
-wlan0
 neulion-a.akamaihd.net
 mtapi.neulion.com
 www.skysportnow.co.nz

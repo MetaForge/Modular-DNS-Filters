@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/Extras/typosquatting_blocklist.txt

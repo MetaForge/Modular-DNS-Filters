@@ -1,0 +1,8 @@
+# Hisense (Android TV, Roku TV, VIDAA)
+
+api-gps-em.hismarttv.com
+api-launcher-em.hismarttv.com
+auth-launcher-em.hismarttv.com
+auth-em.hismarttv.com
+msg-em.hismarttv.com
+unified-ter-na.hismarttv.com

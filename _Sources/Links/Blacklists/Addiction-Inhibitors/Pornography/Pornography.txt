@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/snuff-hosts
+https://raw.githubusercontent.com/tiuxo/hosts/master/porn
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list

@@ -1,0 +1,39 @@
+# bbc.com
+mybbc.files.bbci.co.uk
+polling.bbc.co.uk
+edigitalsurvey.com
+idcta.api.bbc.com
+www.omnycontent.com
+
+# cnn.com
+coupons.cnn.com
+www.summerhamster.com
+bleacherreport.com
+
+# foxnews.com
+my.foxnews.com
+cdn.raygun.io
+vod-dash-ww-live.akamaized.net
+launcher.spot.im
+cdn.flipboard.com
+
+# stuff.co.nz
+adfeeds.stuff.co.nz
+adapi.stuff.co.nz
+www.playwidget.stuff.co.nz
+cdn.neighbourly.co.nz
+www.neighbourly.co.nz
+crl.tivuon.tv
+dashboard.presspatron.com
+assets.adobedtm.com
+socialize.us1.gigya.com
+cdns.us1.gigya.com
+
+# nzherald.co.nz
+syndication.nzherald.co.nz
+profile.nzherald.co.nz
+lefrontend.nzmelistings.co.nz
+
+# misc
+www.oneroof.co.nz
+s.oneroof.co.nz

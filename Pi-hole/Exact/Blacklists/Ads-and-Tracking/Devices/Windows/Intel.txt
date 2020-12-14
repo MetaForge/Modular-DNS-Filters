@@ -1,0 +1,3 @@
+api.intelsa.intel.com
+gameplay.intel.com
+gameplayapi.intel.com

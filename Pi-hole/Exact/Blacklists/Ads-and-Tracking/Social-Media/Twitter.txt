@@ -1,0 +1,8 @@
+ads-twitter.com
+#cdn.syndication.twimg.com
+crashlytics.twimg.com
+#platform.twitter.com
+static.ads-twitter.com
+#syndication.twitter.com
+twitter.app.link
+twitter-alternate.app.link

@@ -1,0 +1,2 @@
+logger.instagram.com
+graph.instagram.com

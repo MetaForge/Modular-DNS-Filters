@@ -1,0 +1,2 @@
+https://gitlab.com/quidsup/ntrk-tracker-radar/-/raw/master/ddg_tracker_radar_confirmed.hosts
+https://gitlab.com/quidsup/ntrk-tracker-radar/-/raw/master/ddg_tracker_radar_high.hosts

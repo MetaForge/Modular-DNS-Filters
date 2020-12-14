@@ -1,0 +1,7 @@
+visualstudio-devdiv-c2s.msedge.net
+targetednotifications-tm.trafficmanager.net
+az667904.vo.msecnd.net
+az700632.vo.msecnd.net
+az416426.vo.msecnd.net
+marketplace.visualstudio.com
+dc.services.visualstudio.com

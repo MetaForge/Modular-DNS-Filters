@@ -1,0 +1,7 @@
+www.bing.com
+r.bing.com
+browser.events.data.msn.com
+img-s-msn-com.akamaized.net
+edge.activity.windows.com
+
+config.edge.skype.com

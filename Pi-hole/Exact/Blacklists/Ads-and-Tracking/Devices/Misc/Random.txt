@@ -1,0 +1,33 @@
+# Windows
+70.1.168.192.in-addr.arpa
+
+# Samsung
+www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+google.com.onion
+
+# Other
+9.rarbg.to
+t.scdn.co
+gtq6.sct.sc-prod.net
+gtq.sct.sc-prod.net
+turneradstoedc.akamaized.net
+www.awesomeinventions.com
+static.boredpanda.com
+sadanduseless.b-cdn.net
+cdn.shopify.com
+s0.2mdn.net
+s.w.org
+cdn.parsely.com
+api-public.addthis.com
+m.addthis.com
+v1.addthisedge.com
+z.moatads.com
+s7.addthis.com
+logs1413.xiti.com
+rum-collector-2.pingdom.net
+tracking.chilipiper.com
+c.statcounter.com
+collector-pxkz1aizup.px-cloud.net
+tracking.g2crowd.com
+trackcmp.net
+ldynamicspublicapi.leadforensics.com

@@ -1,0 +1,2 @@
+https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts
+https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts_browser

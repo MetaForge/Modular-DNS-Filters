@@ -1,0 +1,5 @@
+dht.libtorrent.org
+dht.transmissionbt.com
+dht.aelitis.com
+www.fosshub.com
+download.db-ip.com

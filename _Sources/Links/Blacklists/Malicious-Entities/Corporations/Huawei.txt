@@ -1,0 +1,60 @@
+# Huawei
+consumer.huawei.com
+aiclean.us.cloud.360safe.com
+au.ff.avast.com
+configserver-dra.platform.hicloud.com
+grs.hicloud.com
+huawei.facebook.com
+metrics1.data.hicloud.com
+mvconf.cloud.360safe.com
+servicesupport.hicloud.com
+streamback.ff.avast.com
+
+# --------------------------------------------------
+# UNCOMMENT THE HOSTS BELOW TO BLOCK EMUI UPDATES
+#
+#query.hicloud.com
+#configserver.platform.hicloud.com
+# --------------------------------------------------
+# https://github.com/PikaMikaTuu/huawei-block-list/blob/master/huawei-block-host.txt
+
+grs.dbankcloud.cn
+grs.dbankcloud.eu
+grs.dbankcloud.com
+grs.dbankcloud.asia
+pushtrs6.push.hicloud.com
+metrics-dra.dt.hicloud.com
+api-dra.music.hicloud.com
+store.hispace.hicloud.com
+theme-dra.emui.hicloud.com
+dnkeeper.hicloud.com
+huaweihigame.com
+api.cloud.huawei.com
+hwid.platform.hicloud.com
+hwid-dre.platform.hicloud.com
+id-dre.dbankcdn.com
+id7.cloud.huawei.com
+logbak.hicloud.com
+id.cloud.huawei.com
+security-captcha-dre.platform.hicloud.com
+configdownload-dra.dbankcdn.com
+configserver-dra.platform.hicloud.com
+videocontent-dra.himovie.hicloud.com
+upfile5.hicloud.com
+id5.cloud.huawei.com
+coupon-dra.iap.hicloud.com
+pay5.hicloud.com
+hwid-dra.platform.hicloud.com
+gra.hicloud.com
+sdkserver-dra.op.hicloud.com
+communityfile-drcn.op.hicloud.com
+events-dra.op.hicloud.com
+eu.mclean.50union.com
+eu.mvconf.50union.com
+sp-8f237ea3.honzik.avcdn.net
+sp-8f237ea3.vps-v4.u.acvdn.net
+adxcreative-dra.dbankcdn.com
+cdn.hinative.com
+hinative.com
+cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com
+cs02-pps-drcn.dbankcdn.com.cdn.dnsv1.com

@@ -1,0 +1,3 @@
+privatestats.whatsapp.net
+app.adjust.world
+crashlogs.whatsapp.net

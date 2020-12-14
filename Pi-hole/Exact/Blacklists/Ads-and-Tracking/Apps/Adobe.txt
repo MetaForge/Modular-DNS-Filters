@@ -1,0 +1,16 @@
+# Photoshop
+static.adobelogin.com
+geo2.adobe.com
+adobeid-na1.services.adobe.com
+client.messaging.adobe.com
+ims-na1.adobelogin.com
+lcs-robs.adobe.io
+p13n.adobe.io
+ocsp.digicert.com
+lcs-cops.adobe.io
+crlog-crcn.adobe.com
+api.typekit.com
+deff.nelreports.net
+
+# Avenza plugin
+download.avenza.com

@@ -1,0 +1,5 @@
+# Philips (Android, Net TV, Roku OS)
+
+ad.nettvservices.com
+legacyportal.nettvservices.com
+nettv.corio.com

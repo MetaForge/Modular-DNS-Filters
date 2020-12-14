@@ -1,0 +1,2 @@
+datarouter-prod.ak.epicgames.com
+datarouter.ol.epicgames.com

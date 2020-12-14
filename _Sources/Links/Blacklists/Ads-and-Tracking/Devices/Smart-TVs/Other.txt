@@ -1,0 +1,42 @@
+# Samba.tv
+# To quote Wiki: "Samba TV tracks what appears on the users' TV by reading pixels and utilizing this data for personalized recommendations"
+# Blocking this seems like a good idea.
+
+samba.tv
+events.cid.samba.tv
+
+# These are the guys who helped with the switchover to digital TV in the UK. What's their software doing in your telly? No idea! At a guess, targeted advertising.
+
+img-ctv.digitaluk.co.uk
+
+# No idea on this one. Probably location related ads.
+
+secure-geolocation.premiumtv.co.uk
+
+# geohawk.co.uk now redirects to Mapway so definitely location related.
+
+geohawk.co.uk
+ud-prd.geohawk.co.uk
+
+# Other third party crap from various smart TV's
+
+2mdn.net
+ad.71i.de
+adv.ettoday.net
+advertising.com
+api.nfl.com
+cdn.smartclip.net
+cdns-content.dzcdn.net
+database01p.anixe.net
+de.ioam.de
+googleads.g.doubleclick.net
+nbc-jite.nbcuni.com
+redbutton-adproxy-lb-prod.redbutton.de
+redbutton-lb-prod.redbutton.de
+redbutton.sim-technik.de
+script.ioam.de
+start.digitaltext.rtl.de
+stats-irl.sxp.smartclip.net
+trvdp.com
+tv-static.scdn.co
+xml.opera.com

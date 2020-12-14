@@ -1,0 +1,16 @@
+# Netflix
+# Analytics, telemetry, spying on paying customers... whatever you wish to call it.
+
+beacon.netflix.com 
+beacon.geo.netflix.com
+beacon.eu-west-1.prodaa.netflix.com
+beacon.us-east-1.prodaa.netflix.com
+beacon.eu-west-2.prodaa.netflix.com 
+beacon.us-west-2.prodaa.netflix.com
+customerevents.netflix.com
+dualstack.ichnaea-web-323206729.eu-west-1.elb.amazonaws.com
+ichnaea.netflix.com
+ichnaea-web.netflix.com
+ichnaea-ios-aws-control.prod.ftl.netflix.com
+nmtracking.netflix.com 
+presentationtracking.netflix.com

@@ -14,3 +14,6 @@ deff.nelreports.net
 
 # Avenza plugin
 download.avenza.com
+
+# Adobe
+cc-api-data.adobe.io

@@ -48,15 +48,15 @@ https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/E
 
 https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Misc/Random.txt
 
-https://github.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/HBBTV.txt
-https://github.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Hisense.txt
-https://github.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/LG.txt
-https://github.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Other.txt
-https://github.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Panasonic.txt
-https://github.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Philips.txt
-https://github.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Roku.txt
-https://github.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Samsung.txt
-https://github.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Sony.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/HBBTV.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Hisense.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/LG.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Other.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Panasonic.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Philips.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Roku.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Samsung.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/blob/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Devices/Smart-TVs/Sony.txt
 
 https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Malicious-Entities/Antivirus/Antivirus.txt
 https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Malicious-Entities/Malware/Malware.txt

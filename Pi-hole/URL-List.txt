@@ -4,6 +4,10 @@ https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/E
 https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Addiction-Inhibitors/Social-Media/Combined.txt
 https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Addiction-Inhibitors/Substances/Alcohol.txt
 
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Addiction-Inhibitors/Social-Media/Facebook.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Addiction-Inhibitors/Social-Media/Instagram.txt
+https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Addiction-Inhibitors/Social-Media/Twitter.txt
+
 https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Apps/Adobe.txt
 https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Apps/Edge.txt
 https://raw.githubusercontent.com/MetaForge/Modular-DNS-Filters/master/Pi-hole/Exact/Blacklists/Ads-and-Tracking/Apps/Epic-Store.txt

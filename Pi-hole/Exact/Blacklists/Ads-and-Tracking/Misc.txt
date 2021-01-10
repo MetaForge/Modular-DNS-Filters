@@ -1,5 +1,7 @@
 # Msc ads and trackers embedded into many apps and sites
 
+visitanalytics.userreport.com
+
 1mp.mobi
 1.qualtrics.com
 15.taboola.com

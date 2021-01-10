@@ -18,3 +18,4 @@ download.avenza.com
 # Adobe
 cc-api-data.adobe.io
 ccext.adobe.io
+hbrcv.adobe.com

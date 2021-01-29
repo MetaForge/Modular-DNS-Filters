@@ -22,3 +22,4 @@ hbrcv.adobe.com
 acp-ss-ew1.adobe.io
 ims-prod06.adobelogin.com
 notify.adobe.io
+hbrt.adobe.com

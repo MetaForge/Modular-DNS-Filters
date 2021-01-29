@@ -20,5 +20,5 @@ cc-api-data.adobe.io
 ccext.adobe.io
 hbrcv.adobe.com
 acp-ss-ew1.adobe.io
-ms-prod06.adobelogin.com
+ims-prod06.adobelogin.com
 notify.adobe.io

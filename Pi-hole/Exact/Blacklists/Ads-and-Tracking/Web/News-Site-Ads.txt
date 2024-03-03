@@ -28,6 +28,7 @@ dashboard.presspatron.com
 assets.adobedtm.com
 socialize.us1.gigya.com
 cdns.us1.gigya.com
+my.stuff.co.nz
 
 # nzherald.co.nz
 syndication.nzherald.co.nz

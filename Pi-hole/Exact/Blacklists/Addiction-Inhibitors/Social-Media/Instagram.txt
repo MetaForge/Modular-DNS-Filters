@@ -1,5 +1,6 @@
 # Instagram
 a.ns.cdninstagram.com
+about.instagram.com
 api.instagram.com
 b.ns.cdninstagram.com
 badges.instagram.com
@@ -16,7 +17,10 @@ external-vie1-1.cdninstagram.com
 external-waw1-1.cdninstagram.com
 external.cdninstagram.com
 fundingchoicesmessages.google.com
+gateway.instagram.com
+graph.instagram.com
 help.instagram.com
+i-fallback.instagram.com
 i.instagram.com
 images.instagram.com
 instagr.am
@@ -70,7 +74,9 @@ instagram-shv-13-frc1.fbcdn.net
 instagram-shv-17-prn1.fbcdn.net
 instagram-shv-18-prn1.fbcdn.net
 instagram.c10r.facebook.com
+instagram.c10r.instagram.com
 instagram.com
+instagram.fakl2-1.fna.fbcdn.net
 instagramstatic-a.akamaihd.net
 instagramstatic-a.akamaihd.net.edgesuite.net
 l.instagram.com
@@ -288,6 +294,7 @@ scontent-xsp1-2.cdninstagram.com
 scontent-yyz1-1.cdninstagram.com
 scontent-zrh1-1.cdninstagram.com
 scontent.cdninstagram.com
+star.fallback.c10r.instagram.com
 static.cdninstagram.com
 telegraph-ash.instagram.com
 video-nrt1-1.cdninstagram.com

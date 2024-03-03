@@ -386,3 +386,5 @@ z-p42-scontent-waw1-1.cdninstagram.com
 z-p42-scontent-yyz1-1.cdninstagram.com
 z-p42-scontent.cdninstagram.com
 z-p42-static.cdninstagram.com
+instagram.fpmr1-1.fna.fbcdn.net
+chat-e2ee-ig-p42.c10r.facebook.com

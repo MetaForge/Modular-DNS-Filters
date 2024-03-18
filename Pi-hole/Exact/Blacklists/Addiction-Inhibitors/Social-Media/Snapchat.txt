@@ -1,0 +1,15 @@
+snapchat.com
+www.snapchat.com
+ads.snapchat.com
+adsapi.snapchat.com
+accounts.snapchat.com
+geofilters.snapchat.com
+forbusiness.snapchat.com
+business.snapchat.com
+tr.snapchat.com
+businesshelp.snapchat.com
+snapcamera.snapchat.com
+support.snapchat.com
+snapads.com
+snapkit.com
+app-analytics.snapchat.com
